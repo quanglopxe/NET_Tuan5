@@ -22,26 +22,38 @@ namespace DuongThuanQuang_BTTL_Bai1_winform
 
         private void btnPlus(object sender, EventArgs e)
         {
-            kq = Convert.ToInt32(a.Text) + Convert.ToInt32(b.Text);
-            result.Text = kq.ToString();
+            if (a.Text.Length > 0)
+            {
+                kq = int.Parse(a.Text) + int.Parse(b.Text);
+                result.Text = kq.ToString();
+            }
         }
 
         private void btnMinus(object sender, EventArgs e)
         {
-            kq = Convert.ToInt32(a.Text) - Convert.ToInt32(b.Text);
-            result.Text = kq.ToString();
+            if(a.Text.Length>0)
+            {
+                kq = int.Parse(a.Text) - int.Parse(b.Text);
+                result.Text = kq.ToString();
+            }
         }
 
         private void btnMultiply(object sender, EventArgs e)
         {
-            kq = Convert.ToInt32(a.Text) * Convert.ToInt32(b.Text);
-            result.Text = kq.ToString();
+            if (a.Text.Length > 0)
+            {
+                kq = int.Parse(a.Text) * int.Parse(b.Text);
+                result.Text = kq.ToString();
+            }
         }
 
         private void btnDevise(object sender, EventArgs e)
         {
-            kq = Convert.ToInt32(a.Text) / Convert.ToInt32(b.Text);
-            result.Text = kq.ToString();
+            if (a.Text.Length > 0)
+            {
+                kq = int.Parse(a.Text) / int.Parse(b.Text);
+                result.Text = kq.ToString();
+            }
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
@@ -57,8 +69,11 @@ namespace DuongThuanQuang_BTTL_Bai1_winform
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             Control ctrl = (Control)sender;
-            if (ctrl.Text.Length > 0 && Char.IsDigit(ctrl.Text, 0) == false)//if (ctrl.Text.Length > 0 && !Char.IsDigit(ctrl.Text[ctrl.Text.Length-11])) //tại sao lại trừ 11?
+            if (ctrl.Text.Length > 0 && Char.IsDigit(ctrl.Text, 0) == false)
+            {
                 this.errorProvider1.SetError(ctrl, "This is not avalid number");
+                MessageBox.Show("Giá trị nhập không hợp lệ, vui lòng nhập lại!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             else
                 this.errorProvider1.Clear();
         }
@@ -66,8 +81,11 @@ namespace DuongThuanQuang_BTTL_Bai1_winform
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
             Control ctrl = (Control)sender;
-            if (ctrl.Text.Length > 0 && Char.IsDigit(ctrl.Text, 0) == false)//if (ctrl.Text.Length > 0 && !Char.IsDigit(ctrl.Text[ctrl.Text.Length-11])) //tại sao lại trừ 11?
+            if (ctrl.Text.Length > 0 && Char.IsDigit(ctrl.Text, 0) == false)
+            {
                 this.errorProvider1.SetError(ctrl, "This is not avalid number");
+                MessageBox.Show("Giá trị nhập không hợp lệ, vui lòng nhập lại!", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             else
                 this.errorProvider1.Clear();
         }
