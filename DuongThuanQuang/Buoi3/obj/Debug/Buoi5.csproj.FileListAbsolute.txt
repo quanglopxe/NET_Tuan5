@@ -1,0 +1,12 @@
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\bin\Debug\Buoi3.exe.config
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\obj\Debug\Buoi3.exe
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\obj\Debug\Buoi3.pdb
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\obj\Debug\Buoi5.csprojResolveAssemblyReference.cache
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\obj\Debug\Buoi5.FormBai1.resources
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\obj\Debug\Buoi5.FormBai2.resources
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\obj\Debug\Buoi5.FormBai3.resources
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\obj\Debug\Buoi5.FormBai4.resources
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\obj\Debug\Buoi3.Properties.Resources.resources
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\obj\Debug\Buoi5.csproj.GenerateResource.Cache
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\bin\Debug\Buoi3.exe
+G:\Học kỳ 5\Công Nghệ .NET\BaiTap\DuongThuanQuang\Buoi3\bin\Debug\Buoi3.pdb

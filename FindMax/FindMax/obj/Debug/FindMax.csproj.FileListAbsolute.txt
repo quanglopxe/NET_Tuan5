@@ -1,0 +1,9 @@
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\FindMax\FindMax\bin\Debug\FindMax.exe.config
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\FindMax\FindMax\bin\Debug\FindMax.exe
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\FindMax\FindMax\bin\Debug\FindMax.pdb
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\FindMax\FindMax\obj\Debug\FindMax.csprojResolveAssemblyReference.cache
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\FindMax\FindMax\obj\Debug\FindMax.Form1.resources
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\FindMax\FindMax\obj\Debug\FindMax.Properties.Resources.resources
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\FindMax\FindMax\obj\Debug\FindMax.csproj.GenerateResource.Cache
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\FindMax\FindMax\obj\Debug\FindMax.exe
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\FindMax\FindMax\obj\Debug\FindMax.pdb
