@@ -1,0 +1,9 @@
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\BT_LamThem\BT_LamThem\bin\Debug\BT_LamThem.exe.config
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\BT_LamThem\BT_LamThem\obj\Debug\BT_LamThem.csprojResolveAssemblyReference.cache
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\BT_LamThem\BT_LamThem\obj\Debug\BT_LamThem.Form1.resources
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\BT_LamThem\BT_LamThem\obj\Debug\BT_LamThem.Properties.Resources.resources
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\BT_LamThem\BT_LamThem\obj\Debug\BT_LamThem.csproj.GenerateResource.Cache
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\BT_LamThem\BT_LamThem\bin\Debug\BT_LamThem.exe
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\BT_LamThem\BT_LamThem\bin\Debug\BT_LamThem.pdb
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\BT_LamThem\BT_LamThem\obj\Debug\BT_LamThem.exe
+D:\DuongThuanQuang_NET_Tuan5\NET_Tuan5\BT_LamThem\BT_LamThem\obj\Debug\BT_LamThem.pdb
